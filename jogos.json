@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titulo": "Hollow Knight",
+    "genero": "Aventura",
+    "preco": 46.99,
+    "disponivel": true,
+    "plataformas": [
+      "PC",
+      "Switch"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Stardew Valley",
+    "genero": "Simulação",
+    "preco": 24.99,
+    "disponivel": false,
+    "plataformas": [
+      "PC",
+      "Celular"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "game do ano Pedro Passos goty",
+    "genero": "Ação",
+    "preco": 549.9,
+    "disponivel": true,
+    "plataformas": [
+      "PC"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Pedro of War",
+    "genero": "Aventura",
+    "preco": 299,
+    "disponivel": true,
+    "plataformas": [
+      "PC"
+    ]
+  }
+]
